@@ -1,2 +1,2 @@
-# passenger-count-app
+# passenger-counter-app
 it is an app that count passenger
